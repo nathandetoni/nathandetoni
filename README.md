@@ -5,7 +5,8 @@
 
 ### 👨‍💻 IT Technician | ⚛️ Physics Undergraduate
 
-I stand at the intersection of **Computer Science** and **Physics**, leveraging technology to solve complex scientific problems and building robust software solutions.
+I stand at the intersection of **Computer Science** and **Physics**.
+How to reach me: contact@nathandetoni.com
 
 ---
 
@@ -33,6 +34,7 @@ Here are the tools and languages I work with:
 **Infrastructure & Fundamentals:**
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=generic&logoColor=white)
 ![Network Engineering](https://img.shields.io/badge/Network_Engineering-black?style=for-the-badge&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <!--
 **nathandetoni/nathandetoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
