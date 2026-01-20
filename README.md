@@ -28,8 +28,8 @@ Here are the tools and languages I work with:
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Infrastructure & Fundamentals:**
-![Computer Networks](https://img.shields.io/badge/Network_Engineering-black?style=for-the-badge&logo=cisco&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=generic&logoColor=white)
+![Network Engineering](https://img.shields.io/badge/Network_Engineering-black?style=for-the-badge&logo=cisco&logoColor=white)
 
 <!--
 **nathandetoni/nathandetoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
