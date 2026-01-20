@@ -1,5 +1,8 @@
 # Hi there, I'm Nathan! 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-moreira-detoni-0252083a4/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@nathandetoni.com)
+
 ### 👨‍💻 IT Technician | ⚛️ Physics Undergraduate
 
 I stand at the intersection of **Computer Science** and **Physics**, leveraging technology to solve complex scientific problems and building robust software solutions.
