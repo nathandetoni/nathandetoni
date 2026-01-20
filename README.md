@@ -6,6 +6,7 @@
 ### 👨‍💻 IT Technician | ⚛️ Physics Undergraduate
 
 I stand at the intersection of **Computer Science** and **Physics**.
+
 How to reach me: contact@nathandetoni.com
 
 ---
