@@ -17,7 +17,7 @@ I am a certified **IT Technician** currently pursuing a degree in **Physics**. M
 
 * **🎓 Physics Focus:** My academic research centers on **Condensed Matter Physics**, specifically **Liquid Crystals** and **Ionic Fluids**. I also dedicate significant study to **Computational Physics**.
 * **💻 Tech Focus:** On the software side, I specialize in **Application Development** (Web & Desktop), **Operating Systems Structure** and **Data Science**.
-* **🧠 Exploring:** Currently diving deep into **Chaos Theory** and **Quantum Computing**.
+* **🧠 Exploring:** Currently diving deep into **Chaos Theory**, **Mathematical Physics** and **Quantum Computing**.
 
 ---
 
