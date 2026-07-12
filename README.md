@@ -15,7 +15,7 @@ How to reach me: contact@nathandetoni.com
 
 I am a certified **IT Technician** currently pursuing a degree in **Physics**. My passion lies in applying computational methods to physical theories and developing efficient applications.
 
-* **🎓 Physics Focus:** My academic research centers on **Condensed Matter Physics**, specifically **Liquid Crystals** and **Ionic Fluids**. I also dedicate significant study to **Computational Physics**.
+* **🎓 Physics Focus:** My academic research centers on **Statistical Mechanics** and **Condensed Matter Physics**, specifically **Liquid Crystals** and **Ionic Fluids**. I also dedicate significant study to **Computational Physics**.
 * **💻 Tech Focus:** On the software side, I specialize in **Application Development** (Web & Desktop), **Operating Systems Structure** and **Data Science**.
 * **🧠 Exploring:** Currently diving deep into **Quantum Computing** and systems programming with **Rust**.
 
